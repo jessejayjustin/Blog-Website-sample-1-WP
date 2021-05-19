@@ -1,4 +1,4 @@
-# Blog Website WordPress Sample 1
+# Blog Website WordPress
 
 # How to Install:
 
