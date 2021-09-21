@@ -1,4 +1,4 @@
-# Custom Theme 02 Blog Website WordPress
+# Custom Theme Blog Website WordPress
 
 # How to Install:
 
